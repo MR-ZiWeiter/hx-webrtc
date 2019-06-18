@@ -1,7 +1,8 @@
 {
   "name": "hx-webrtc",
-  "version": "1.4.12",
+  "version": "1.0.0",
   "description": "Easemob IM webrtc",
+  "author": "ziweiter <hl201512990@gmail.com>",
   "main": "index.js",
   "scripts": {
     "build": "gulp",
@@ -32,7 +33,6 @@
     "webpack-cli": "^3.2.3",
     "webpack-stream": "^3.2.0"
   },
-  "author": "easemob",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/easemob/web-im/issues"
