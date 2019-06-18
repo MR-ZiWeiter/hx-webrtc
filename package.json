@@ -1,5 +1,5 @@
 {
-  "name": "easemob-webrtc",
+  "name": "hx-webrtc",
   "version": "1.4.12",
   "description": "Easemob IM webrtc",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easemob/web-im.git"
+    "url": "git+https://github.com/MR-ZiWeiter/hx-webrtc.git"
   },
   "keywords": [
     "realtime",
