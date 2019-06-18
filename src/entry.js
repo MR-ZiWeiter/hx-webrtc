@@ -1,7 +1,7 @@
 var Util = (require('./components/utils').default);
 var Call = require('./components/call');
 
-var emedia = require('easemob-emedia');
+var emedia = require('hx-emedia');
 
 window.WebIM = typeof WebIM !== 'undefined' ? WebIM : {};
 WebIM.WebRTC = WebIM.WebRTC || {};

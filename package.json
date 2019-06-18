@@ -1,6 +1,6 @@
 {
   "name": "hx-webrtc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easemob IM webrtc",
   "author": "ziweiter <hl201512990@gmail.com>",
   "main": "index.js",
@@ -31,7 +31,8 @@
     "vinyl-source-stream": "^1.1.0",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
-    "webpack-stream": "^3.2.0"
+    "webpack-stream": "^3.2.0",
+    "hx-emedia": "^1.0.0"
   },
   "license": "MIT",
   "bugs": {
